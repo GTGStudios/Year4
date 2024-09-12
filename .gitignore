@@ -1,6 +1,10 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+# Ignore Unreal Engine saved files and logs
+Saved/
+*.log
+
 # Compiled Object files
 *.slo
 *.lo
