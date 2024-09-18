@@ -5,6 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Alex/Documents/GitHub/Year4/Year4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/X8/V71UPXLLZZSXU8472OQ8WA.uasset",
+				"C:/Users/Alex/Documents/GitHub/Year4/Year4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/1N/5WY4A6KC9EF821CCYL0AUA.uasset",
+				"C:/Users/Alex/Documents/GitHub/Year4/Year4/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/Alex/Documents/GitHub/Year4/Year4/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Alex/Documents/GitHub/Year4/Year4/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/Alex/Documents/GitHub/Year4/Year4/Content/StarterContent/Materials/M_Metal_Gold.uasset",
+				"C:/Users/Alex/Documents/GitHub/Year4/Year4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/KJ/TS9C2YPKMSHWAR6A5C9BZN.uasset",
+				"C:/Users/Alex/Documents/GitHub/Year4/Year4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/S8/K4WIWWA008OSA812D45GPC.uasset",
+				"C:/Users/Alex/Documents/GitHub/Year4/Year4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/EZ/OKOAKENJHB9DWE294TXJS8.uasset",
+				"C:/Users/Alex/Documents/GitHub/Year4/Year4/Content/ThirdPerson/Blueprints/Teleport_Station.uasset",
 				"C:/Users/hayne/OneDrive/Documents/Unreal Projects/Year4/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/hayne/OneDrive/Documents/Unreal Projects/Year4git/Year4/Content/Blueprints/BP_AIEnemy.uasset",
 				"C:/Users/hayne/OneDrive/Documents/Unreal Projects/Year4git/Year4/Content/ThirdPerson/Input/IMC_Default.uasset",
@@ -371,12 +381,6 @@
 				"C:/Users/hayne/OneDrive/Documents/Unreal Projects/Year4git/Year4/Content/TestScenes/ThirdPersonMap1.umap",
 				"D:/GitHub/Unreal Projects/Year4/Year4/Content/PlayTestArea.umap",
 				"D:/EpicGames/UE_5.4/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
-				"C:/Users/Alex/Documents/GitHub/Year4/Year4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/X8/V71UPXLLZZSXU8472OQ8WA.uasset",
-				"C:/Users/Alex/Documents/GitHub/Year4/Year4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/1N/5WY4A6KC9EF821CCYL0AUA.uasset",
-				"C:/Users/Alex/Documents/GitHub/Year4/Year4/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
-				"C:/Users/Alex/Documents/GitHub/Year4/Year4/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/Alex/Documents/GitHub/Year4/Year4/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
-				"C:/Users/Alex/Documents/GitHub/Year4/Year4/Content/StarterContent/Materials/M_Metal_Gold.uasset",
 				"C:/Users/hayne/OneDrive/Documents/Unreal Projects/Year4git/Year4/Content/Interaction/WBP_HU.uasset"
 			]
 		}
