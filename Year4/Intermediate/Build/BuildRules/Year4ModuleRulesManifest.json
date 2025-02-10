@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\hayne\\OneDrive\\Documents\\Unreal Projects\\Year4git\\Year4\\Intermediate\\Source\\Year4.Build.cs",
+		"C:\\Users\\hayne\\OneDrive\\Documents\\Unreal Projects\\Year4git\\Year4\\Intermediate\\Source\\Year4.Target.cs",
+		"C:\\Users\\hayne\\OneDrive\\Documents\\Unreal Projects\\Year4git\\Year4\\Intermediate\\Source\\Year4Client.Target.cs",
+		"C:\\Users\\hayne\\OneDrive\\Documents\\Unreal Projects\\Year4git\\Year4\\Intermediate\\Source\\Year4Editor.Target.cs",
+		"C:\\Users\\hayne\\OneDrive\\Documents\\Unreal Projects\\Year4git\\Year4\\Intermediate\\Source\\Year4Server.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
