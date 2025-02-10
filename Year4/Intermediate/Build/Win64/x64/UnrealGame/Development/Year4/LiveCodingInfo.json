@@ -1,5 +1,8 @@
 {
 	"RemapUnityFiles": 
 	{
+		"Module.Year4.cpp.obj": [
+			"Year4.cpp.obj"
+		]
 	}
 }
