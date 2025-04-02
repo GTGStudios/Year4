@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\hayne\\onedrive\\documents\\unreal projects\\year4git\\year4\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\year4\\module.year4.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\hayne\\onedrive\\documents\\unreal projects\\year4git\\year4\\intermediate\\build\\win64\\x64\\year4\\shipping\\core\\sharedpch.core.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\hayne\\onedrive\\documents\\unreal projects\\year4git\\year4\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\year4\\definitions.year4.h",
+            "c:\\users\\hayne\\onedrive\\documents\\unreal projects\\year4git\\year4\\intermediate\\source\\year4.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
