@@ -349,8 +349,8 @@
 			"Descriptor": 
 			{
 				"FileVersion": 3,
-				"Version": 40,
-				"VersionName": "2024.0.1",
+				"Version": 47,
+				"VersionName": "2024.0.7",
 				"FriendlyName": "Bridge",
 				"Description": "Megascans Link for Quixel Bridge.",
 				"Category": "Editor",
